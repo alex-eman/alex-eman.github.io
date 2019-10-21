@@ -1,2 +1,2 @@
-# alex-eman.github.io
-GitHub Pages repository.
+# Portfolio
+In progress: Adding languages/tech tags to projects
